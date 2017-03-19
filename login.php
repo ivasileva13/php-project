@@ -31,4 +31,4 @@ if (isset($_POST['submit'])) {
 	}
 }
 echo "<br><center><a href='register.php'>Sign up</a></center>";
-?>
+?
